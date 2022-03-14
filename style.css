@@ -1,0 +1,21 @@
+
+     
+    h1 {
+        font-family: 'Playfair Display', serif;
+        font-weight: 800;
+        font-size: 50px; 
+        color: #429ebd;   
+    }
+
+    header {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        max-width: 80%;
+        align-items: center;
+    }
+
+    .btn-group {
+           height: 30px;
+           background;: $cyan-300;
+    }
