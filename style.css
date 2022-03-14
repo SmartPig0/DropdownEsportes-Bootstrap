@@ -40,6 +40,7 @@ h1 {
 
     .foto-texto {
         font-size: x-small;
+        margin: 10px;
     }
 
     .agulhas-esportes {
@@ -47,7 +48,10 @@ h1 {
     }
 
     .voolivre-esportes {
-        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 10px;
     }
 
     .container {        
