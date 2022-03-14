@@ -67,3 +67,8 @@ h1 {
     .voo {
         margin-bottom: 10px;
     }
+
+    .linha {
+        border-bottom: dotted 1px #429ebd;
+        margin:10px;
+    }
